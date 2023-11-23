@@ -16,7 +16,6 @@ public class CentroBotanico {
 
     public void agregarPlanta(Planta planta) {
         plantas.add(planta);
-        System.out.println("La planta se agrego");
     }
 
     public void agregarBotanico(Botanico botanico) {
